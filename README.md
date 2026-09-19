@@ -83,6 +83,7 @@ All the resources listed are community-driven: we cannot offer support but sugge
 
 ## Coding Agent Management
 
+* [glyph (⭐4)](https://github.com/fru-dev3/glyph) names every coding-agent session at launch as `label·project·agent·machine·date·time`, lists what is running, and reads quota across Claude Code, Codex and AGY; launches agent fleets into Zellij panes
 * [showy-quota (⭐17)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
 * [opencode-zellij-namer (⭐67)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [zellaude (⭐107)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
